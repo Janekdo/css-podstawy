@@ -23,16 +23,13 @@ body {
     background-color: lime;
     width: 100px;
     height: 100px;
-    position:fixed;
+    position: fixed;
     top: 50px;
-    
 }
 
 #pierwszy-prim {
     background-color: yellow;
     margin: 5px;
-    
-    
 }
 
 #pierwszy-absolutny {
