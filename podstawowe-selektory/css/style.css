@@ -14,3 +14,23 @@ li > a {
     background-color: #e0ca3c;
 
 }
+
+ul a {
+    background-color: skyblue;
+}
+
+header h1 + p {
+    color: pink;
+}
+
+header h1 ~ p {
+    color: aqua;
+}
+
+ul#lista > li:not(.last){
+    background-color: beige;
+}
+
+ul#lista > lin:nth-child(3){
+    background-color: red;
+}
