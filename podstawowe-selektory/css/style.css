@@ -31,6 +31,6 @@ ul#lista > li:not(.last){
     background-color: beige;
 }
 
-ul#lista > lin:nth-child(3){
+ul#lista > li:nth-child(3){
     background-color: red;
 }
